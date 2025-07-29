@@ -1,5 +1,15 @@
-# Welcome to My Website
+# 🐾 Welcome to DOMAIN NAME!
 
-This is my new site on GitHub Pages!
+Hi, I’m Elaine!  
+I collect about all kinds of **virtual pets** .
 
-More content coming soon...
+I hope this website brings you back to the 2000s.
+
+---
+
+## 🗂 Sections
+
+ - [Vpet List](vpets.md)  
+---
+
+*Site powered by [GitHub Pages](https://pages.github.com/).*
