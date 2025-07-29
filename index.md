@@ -1,4 +1,4 @@
-# 🐾 Welcome to DOMAIN NAME!
+# Welcome to DOMAIN NAME!
 
 Hi, I’m Elaine!  
 I collect about all kinds of **virtual pets** .
