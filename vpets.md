@@ -4,7 +4,7 @@
       <th style="background-color:#f2f2f2; padding:8px;"></th>
       <th style="background-color:#f2f2f2; padding:8px;"></th>
       <th style="background-color:#f2f2f2; padding:8px;">Images</th>
-       <th style="background-color:#f2f2f2; padding:8px;">Growth Chart</th>
+       <th style="background-color:#f2f2f2; padding:8px;">Type</th>
     </tr>
   </thead>
   <tbody>
@@ -14,7 +14,7 @@
       </td>
       <td style="padding:8px;">My Pet (マイペット)<br>Release: 1997? - Japan only.<br>This was a UFO catcher toy that was never sold through traditional retail. </td>
       <td style="padding:8px;">✅</td>
-       <td style="padding:8px;">✅</td>
+       <td style="padding:8px;">🐶</td>
     </tr>
     <tr>
       <td style="padding:8px;">
