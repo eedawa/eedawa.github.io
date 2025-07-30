@@ -9,7 +9,7 @@ I hope this website brings you back to the 2000s.
 
 ## 🗂 Sections
 
- - [Vpet List](vpets.html)  
+ - [Vpet List](vpets.md)  
 ---
 
 *Site powered by [GitHub Pages](https://pages.github.com/).*
