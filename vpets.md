@@ -3,6 +3,7 @@
     <tr>
       <th style="background-color:#f2f2f2; padding:8px;"></th>
       <th style="background-color:#f2f2f2; padding:8px;"></th>
+      <th style="background-color:#f2f2f2; padding:8px;">Shells</th>
       <th style="background-color:#f2f2f2; padding:8px;">Images</th>
        <th style="background-color:#f2f2f2; padding:8px;">Type</th>
     </tr>
@@ -13,6 +14,7 @@
         <img src="images/pixel_mypet01.png" alt="My Pet" style="vertical-align:middle; margin-right:8px; width:40px; height:40px;">
       </td>
       <td style="padding:8px;">My Pet (マイペット)<br>Release: 1997? - Japan only.<br>This was a UFO catcher toy that was never sold through traditional retail.<br>Original programming.</td>
+       <td style="padding:8px;">🖼️</td>
       <td style="padding:8px;">🖼️</td>
        <td style="padding:8px;">🐶</td>
     </tr>
@@ -21,6 +23,7 @@
         <img src="images/pixel_mypet01.png" alt="About Page" style="vertical-align:middle; margin-right:8px; width:40px; height:40px;">
       </td>
       <td style="padding:8px;">The Puppy<br>Release: 1997? - Japan only.<br>Giga Pets Digital Doggie programming.</td>
+       <td style="padding:8px;">🖼️</td>
       <td style="padding:8px;">🖼️</td>
        <td style="padding:8px;">🐶</td>
     </tr>
@@ -29,6 +32,7 @@
         <img src="images/pixel_mypet01.png" alt="About Page" style="vertical-align:middle; margin-right:8px; width:40px; height:40px;">
       </td>
       <td style="padding:8px;">Lovely Puppy<br>Release: 1997? - Japan only.<br>Giga Pets Digital Doggie programming.</td>
+      <td style="padding:8px;">🖼️</td>
       <td style="padding:8px;">🖼️</td>
        <td style="padding:8px;">🐶</td>
     </tr>
