@@ -1,9 +1,9 @@
 <table>
   <thead>
     <tr>
-      <th style="background-color:#f2f2f2; padding:8px;">Feature</th>
-      <th style="background-color:#f2f2f2; padding:8px;">Description</th>
-      <th style="background-color:#f2f2f2; padding:8px;">Status</th>
+      <th style="background-color:#f2f2f2; padding:8px;"></th>
+      <th style="background-color:#f2f2f2; padding:8px;"></th>
+      <th style="background-color:#f2f2f2; padding:8px;"></th>
     </tr>
   </thead>
   <tbody>
