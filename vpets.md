@@ -3,7 +3,7 @@
     <tr>
       <th style="background-color:#f2f2f2; padding:8px;"></th>
       <th style="background-color:#f2f2f2; padding:8px;"></th>
-      <th style="background-color:#f2f2f2; padding:8px;">Shells</th>
+      <th style="background-color:#f2f2f2; padding:8px;">Other Shells</th>
       <th style="background-color:#f2f2f2; padding:8px;">Images</th>
        <th style="background-color:#f2f2f2; padding:8px;">Type</th>
     </tr>
@@ -11,10 +11,12 @@
   <tbody>
     <tr>
       <td style="padding:8px;">
-        <img src="images/pixel_mypet01.png" alt="My Pet" style="vertical-align:middle; margin-right:8px; width:40px; height:40px;">
+        <img src="images/pixel_mypet01.png" alt="Dalmation" style="vertical-align:middle; margin-right:8px; width:40px; height:40px;">
       </td>
       <td style="padding:8px;">My Pet (マイペット)<br>Release: 1997? - Japan only.<br>This was a UFO catcher toy that was never sold through traditional retail.<br>Original programming.</td>
-       <td style="padding:8px;">🖼️</td>
+       <td style="padding:8px;">
+      <img src="images/pixel_mypet02.png" alt="Black & White" style="vertical-align:middle; margin-right:8px; width:40px; height:40px;">
+      </td>
       <td style="padding:8px;">🖼️</td>
        <td style="padding:8px;">🐶</td>
     </tr>
