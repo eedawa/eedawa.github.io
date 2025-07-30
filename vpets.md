@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td style="padding:8px;">
-        <img src="images/pixel_mypet01.png" alt="About Page" style="vertical-align:middle; margin-right:8px; width:40px; height:40px;">
+        <img src="images/pixel_thepuppy01.png" alt="About Page" style="vertical-align:middle; margin-right:8px; width:40px; height:40px;">
       </td>
       <td style="padding:8px;">The Puppy<br>Release: 🇯🇵 1997?<br>Giga Pets Digital Doggie programming.</td>
        <td style="padding:8px;">🖼️</td>
